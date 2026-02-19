@@ -1,0 +1,18 @@
+{
+    "packs": [
+        {
+            "id": "cau-rao-tong-hop",
+            "name": "Câu Rao Tổng Hợp",
+            "author": "Le Van An",
+            "description": "50 số, 77 clip câu rao từ nhiều đoàn lô tô: Sài Gòn Tân Thời, Khưu Huy Vũ và hơn nữa",
+            "clipCount": 77,
+            "file": "packs/cau-rao-tong-hop.json",
+            "tags": [
+                "tổng hợp",
+                "đa nguồn",
+                "cải lương"
+            ],
+            "updated": "2026-02-19"
+        }
+    ]
+}
